@@ -19,7 +19,7 @@
       "id": "2",
       "netocoins": 100,
       "balance": {
-        "RUB": 20,
+        "RUB": 133,
         "USD": 0,
         "EUR": 0,
         "NTC": 100
@@ -36,6 +36,44 @@
         "EUR": 500,
         "NTC": 50000
       }
+    },
+    {
+      "created_at": "2020-03-01T11:52:02.870Z",
+      "login": "митми",
+      "password": "митми",
+      "id": "gf31zj280k78z5buf",
+      "balance": {
+        "RUB": 2.751536838242032,
+        "USD": 99934,
+        "EUR": 1,
+        "NTC": 1,
+        "": null
+      }
+    },
+    {
+      "created_at": "2020-03-01T12:29:48.470Z",
+      "login": "ahtimir@gmail.com",
+      "password": "sss",
+      "id": "gf31zjqok790hvzr",
+      "balance": {
+        "RUB": 28,
+        "USD": 0,
+        "EUR": 0,
+        "NTC": 32.28870361288213
+      }
+    },
+    {
+      "created_at": "2020-03-01T12:31:16.658Z",
+      "login": "ghmfgh",
+      "password": "fghfgh",
+      "id": "gf31zj2kgk790js1f",
+      "balance": {
+        "RUB": 96,
+        "USD": 0,
+        "EUR": 10000,
+        "NTC": 0,
+        "": null
+      }
     }
   ],
   "favorites": {
@@ -49,6 +87,12 @@
     },
     "3": {
       "2": "Важный клиент"
+    },
+    "gf31zj280k78z5buf": {},
+    "gf31zj2kgk790js1f": {
+      "2": "45",
+      "2212": "212",
+      "gf31zj280k78z5buf": "фыв"
     }
   }
 }
